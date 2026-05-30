@@ -1,4 +1,4 @@
-# 🚀 Intelligent Infrastructure Monitoring System using OpenClaw & AWS EC2
+# 🚀 Openclaw monitoring and security audit system
 
 > Deploy an AI-powered monitoring dashboard — from a **single prompt** — that surpasses traditional tools like Prometheus & Grafana with autonomous security testing, vulnerability detection, and real-time reporting.
 
